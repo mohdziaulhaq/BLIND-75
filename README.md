@@ -2,3 +2,4 @@
 ![Group Anagrams](problem-screenshots/group-anagrams.png)
 ![Two Sum](problem-screenshots/two-sum.png)
 ![Valid Anagram](problem-screenshots/valid-anagram.png)
+![Encode and Decode Strings](problem-screenshots/encode-and-decode-strings.png)
